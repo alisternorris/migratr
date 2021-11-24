@@ -1,0 +1,19 @@
+{
+  "name": "migratr",
+  "version": "0.0.1",
+  "description": "Minimal database migration in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisternorris/migratr.git"
+  },
+  "author": "Aliter Norris <hi@alisternorris.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alisternorris/migratr/issues"
+  },
+  "homepage": "https://github.com/alisternorris/migratr#readme"
+}
